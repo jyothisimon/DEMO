@@ -1,0 +1,2 @@
+FROM jyothi/webapp
+ADD ./Demo /var/www/html/DockerFile
